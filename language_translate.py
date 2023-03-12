@@ -3,6 +3,8 @@ import googletrans
 import textblob
 from tkinter import ttk, messagebox
 
+#yorum satiri ekledim
+
 root = Tk()
 root.title("Aysu Language Translator")
 root.geometry("870x300")
